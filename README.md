@@ -17,16 +17,16 @@ For the interactive Tableau Dashboard for this analysis visit:
 
 ![Car](https://github.com/mrwork01/monte_hall_sim/blob/73e39c23836ca913316d3fb734e2d97078e2d3b0/Images/Car%20Occur.png)
 ---
-![](Images/Pick Occur.png)
+![](https://github.com/mrwork01/monte_hall_sim/blob/0731137392ceaf67f1b360dcba8f41b95f2c4b4d/Images/Pick%20Occur.png)
 ---
 As you can see in the above Pie Charts, the simulation distributed the Pick and Car doors evenly.
 ---
-![Percent](Images/Win Pct.png)
+![Percent](https://github.com/mrwork01/monte_hall_sim/blob/0731137392ceaf67f1b360dcba8f41b95f2c4b4d/Images/Win%20Pct.png)
 
 The Simulation shows that by changing your door when asked, you are twice as likeley to win the car.  This result is due to the fact that in the beginning of the process, the contestant has a 1 in 3 chance the car is behind the door they chose and a 2 in 3 chance the car is behind a door they didn't choose.
 
-![](Images/Monte Hall before.png)
+![](https://github.com/mrwork01/monte_hall_sim/blob/0731137392ceaf67f1b360dcba8f41b95f2c4b4d/Images/Monte%20Hall%20before.png)
 
 Once Monte opens up one of the doors, the 2 in 3 chance of the car being behind the remaining door they didn't choose gets allocated to the remaining door.
 
-![](Images/Monte Hall After.png)
+![](https://github.com/mrwork01/monte_hall_sim/blob/0731137392ceaf67f1b360dcba8f41b95f2c4b4d/Images/Monte%20Hall%20After.png)
