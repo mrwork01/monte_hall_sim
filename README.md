@@ -15,7 +15,7 @@ __**Conclusion:**__
 For the interactive Tableau Dashboard for this analysis visit:
 [Monte Hall Tableau Dashboard](https://public.tableau.com/app/profile/marc.work/viz/MonteHallProblem/MonteDashboard?publish=yes)
 
-![Car](Images/Car Occur.png)
+![Car](/Images/Car Occur.png)
 ---
 ![](Images/Pick Occur.png)
 ---
