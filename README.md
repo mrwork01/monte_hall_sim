@@ -6,6 +6,27 @@ In 'Let's Make a Deal', a classic game show from the 60's and 70's, host Monte H
 
 ---
 
-__**Versions:**__
+__**Procedure:**__
 
-	- v1: A simple python command line app, inputing iterations and printing results
+We will create a Python script to simulate 10,000 games from Let's Make a Deal and then move those games into a Tableau Dashboard.
+
+__**Conclusion:**__
+
+For the interactive Tableau Dashboard for this analysis visit:
+[Monte Hall Tableau Dashboard](https://public.tableau.com/app/profile/marc.work/viz/MonteHallProblem/MonteDashboard?publish=yes)
+
+![](Images/Car Occur.png)
+---
+![](Images/Pick Occur.png)
+---
+As you can see in the above Pie Charts, the simulation distributed the Pick and Car doors evenly.
+---
+![Percent](Images/Win Pct.png)
+
+The Simulation shows that by changing your door when asked, you are twice as likeley to win the car.  This result is due to the fact that in the beginning of the process, the contestant has a 1 in 3 chance the car is behind the door they chose and a 2 in 3 chance the car is behind a door they didn't choose.
+
+![](Images/Monte Hall before.png)
+
+Once Monte opens up one of the doors, the 2 in 3 chance of the car being behind the remaining door they didn't choose gets allocated to the remaining door.
+
+![](Images/Monte Hall After.png)
