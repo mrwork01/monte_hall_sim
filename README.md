@@ -15,7 +15,7 @@ __**Conclusion:**__
 For the interactive Tableau Dashboard for this analysis visit:
 [Monte Hall Tableau Dashboard](https://public.tableau.com/app/profile/marc.work/viz/MonteHallProblem/MonteDashboard?publish=yes)
 
-![Car](https://github.com/mrwork01/monte_hall_sim/blob/73e39c23836ca913316d3fb734e2d97078e2d3b0/Images/Car%20Occur.png)
+<img src="https://github.com/mrwork01/monte_hall_sim/blob/73e39c23836ca913316d3fb734e2d97078e2d3b0/Images/Car%20Occur.png" width="200"/)
 ---
 ![](https://github.com/mrwork01/monte_hall_sim/blob/0731137392ceaf67f1b360dcba8f41b95f2c4b4d/Images/Pick%20Occur.png)
 ---
